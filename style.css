@@ -1,0 +1,61 @@
+body{
+    background-image: url(images/1429807.jpg);
+    background-attachment: fixed;
+    text-align: center;
+}
+.btn1{
+  background-color: rgb(2, 2, 2);
+  border: 1px solid black;
+  color: rgb(255, 254, 254);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn2{
+    background-color: rgb(2, 2, 2);
+    border: 1px solid black;
+    color: rgb(255, 7, 7);
+      margin: 10px;
+      border-radius: 10px;
+  }
+
+.btn :hover{
+    color: red;
+}
+.list{
+    text-align: center;
+    
+}
+ul li {
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    padding-top: 20px;
+    margin: 20px;
+}
+.heading{
+    text-align: center;
+    padding: 10px;
+}
+.styling{
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+}
+.heading h1{
+color: rgb(255, 0, 0);
+font-weight: bold;
+font-family: monospace;
+}
+.todo-item{
+    border-radius: 20px;
+    border: none;
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+    height: 20px;
+    width: 200px;
+}
